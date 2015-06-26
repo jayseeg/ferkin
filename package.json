@@ -21,6 +21,7 @@
     "webpack": "^1.9.12"
   },
   "dependencies": {
-    "react": "^0.13.3"
+    "react": "^0.13.3",
+    "react-router": "^0.13.3"
   }
 }
