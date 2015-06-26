@@ -4,7 +4,8 @@
   "description": "a ferkin site",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server --hot --progress --colors",
+    "build": "webpack --progress --colors"
   },
   "keywords": [
     "Jake",
@@ -14,5 +15,10 @@
     "resume"
   ],
   "author": "@jayseeg",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.9.12"
+  }
+
 }
