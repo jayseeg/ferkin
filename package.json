@@ -19,6 +19,8 @@
   "devDependencies": {
     "node-libs-browser": "^0.5.2",
     "webpack": "^1.9.12"
+  },
+  "dependencies": {
+    "react": "^0.13.3"
   }
-
 }
