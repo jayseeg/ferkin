@@ -1,0 +1,18 @@
+{
+  "name": "ferkin",
+  "version": "0.0.1",
+  "description": "a ferkin site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jake",
+    "Gibbons",
+    "jayseeg",
+    "ferkin",
+    "resume"
+  ],
+  "author": "@jayseeg",
+  "license": "ISC"
+}
